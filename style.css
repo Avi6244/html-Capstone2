@@ -1,0 +1,39 @@
+.container{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(143, 146, 128);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+}
+.avi{
+    border-radius: 50%;
+    border: 10px solid blanchedalmond;
+}
+.My-Details{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(19, 54, 16, 0.079);
+    align-items: center;
+    max-width: 1100px;
+    margin: auto;
+}
+h2{
+    background-color: beige;
+
+}
+h3{
+    background-color: rgb(202, 187, 216);
+}
+
+.footer{
+    padding: 10px;
+    background-color: rgba(54, 13, 13, 0.088);
+}
+li{
+    font-weight: bold;
+    text-align: justify;
+}
